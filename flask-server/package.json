@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "downsample": "^1.4.0"
+  }
+}
